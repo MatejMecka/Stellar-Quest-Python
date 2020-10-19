@@ -17,7 +17,7 @@ random_keypair = Keypair.random()
 random_keypair_pub_key = random_keypair.public_key
 random_keypair_priv_key = random_keypair.secret
 
-# 2. Fund Another account using TestBot
+# 3. Fund Another account using TestBot
 print("Funding Random Account...")
 
 url = 'https://friendbot.stellar.org'
@@ -25,7 +25,7 @@ response = requests.get(url, params={'addr': random_keypair.public_key})
 print(f"Friendbot responded with {response}")
 
 
-# 3. Use said account to fund my account
+# 4. Use said account to fund my account
 print("Building Transaction...")
 
 base_fee = server.fetch_base_fee()
