@@ -21,3 +21,8 @@ In this challenge, your task is to add and then make use of multisig on your acc
 * Challenge 5: Create a custom asset and send it to your account
 
 In this challenge, your task is to create and send a custom asset to your account ************* (seen below).
+
+* Challenge 6: Create an offer to sell your custom asset for XLM
+
+In this challenge, your task is to create an offer to sell your custom asset for XLM.
+
