@@ -26,3 +26,11 @@ In this challenge, your task is to create and send a custom asset to your accoun
 
 In this challenge, your task is to create an offer to sell your custom asset for XLM.
 
+* Challenge 7: Make use of a channel account to make a payment
+
+In this challenge, your task is to submit a payment operation from your account ************* (seen below), but to use a separate source account to pay the fee and sequence number for the transaction.
+
+* Challenge 8: Acquire custom asset via a path payment
+
+In this challenge, your task is to acquire SRT from its issuing account ************* via a path payment operation.
+
