@@ -2,6 +2,9 @@
 Stellar Quest Python Solutions :D
 
 ### Solutions for the following challenges:
+
+# Quest 1
+
 * Challenge 1: Create and fund a Stellar account
 
 In this challenge your task is to create and fund a brand new Stellar account ************* (seen below) with 1000 XLM on the testnet.
@@ -34,3 +37,30 @@ In this challenge, your task is to submit a payment operation from your account 
 
 In this challenge, your task is to acquire SRT from its issuing account ************* via a path payment operation.
 
+-----
+
+# Quest 2
+
+* Challenge 1: Create and fund a Stellar account
+
+In this challenge your task is to create and fund a brand new Stellar account ************* (seen below) with 5000 XLM on the testnet.
+
+* Challenge 2: Construct and execute a multi-operational transaction
+
+In this challenge your task is to create a multi-operational transaction which creates a custom asset trustline on your account and pays that asset to your account from the issuing account all in the same transaction.
+
+* Challenge 3: Create and submit a fee bump transaction
+
+In this challenge your task is to create and execute a fee bump transaction which consumes the sequence number from your account ************* (seen below) but the transaction fee from some other account.
+
+* Challenge 4: Create a claimable balance
+
+Today you've gotta sort out how to create a claimable balance that is only claimable by you and only claimable after the next challenge.
+
+* Challenge 5: Claim your claimable balance
+
+This challenge is to "simply" claim that balance and get your XLM back.
+
+* Challenge 6: Sponsor the absolute minimum balance for a new account
+
+In this challenge your task is to create a brand new 0 XLM balance account with the absolute minimum balance sponsored by your ************* account (seen below).
