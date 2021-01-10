@@ -38,7 +38,7 @@ inner_transaction = (
         source_account=account,
         network_passphrase=Network.TESTNET_NETWORK_PASSPHRASE,
         base_fee=base_fee,
-
+        v1=True
     ).append_bump_sequence_op(
         bump_to=1
     )
@@ -50,7 +50,7 @@ inner_transaction.sign(quest_account_priv_key)
 
 # 5. Create Fee Bump transactionn
 fee_bump_tx = TransactionBuilder.build_fee_bump_transaction(
-    fee_source=account, 
+    fee_source=random_keypair, 
     base_fee=base_fee, 
     inner_transaction_envelope=inner_transaction,
     network_passphrase=Network.TESTNET_NETWORK_PASSPHRASE
