@@ -1,5 +1,5 @@
 """
-Challenge 2: Fund a Stellar Account
+Challenge 2: Pay a Stellar Account
 """
 from stellar_sdk import Server, Keypair, TransactionBuilder, Network
 import requests
