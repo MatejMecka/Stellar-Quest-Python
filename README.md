@@ -64,3 +64,7 @@ This challenge is to "simply" claim that balance and get your XLM back.
 * Challenge 6: Sponsor the absolute minimum balance for a new account
 
 In this challenge your task is to create a brand new 0 XLM balance account with the absolute minimum balance sponsored by your ************* account (seen below).
+
+* Challenge 7: Revoke account sponsorship for the account you're sponsoring
+
+In this challenge you need to revoke account sponsorship for the account you're currently sponsoring.
