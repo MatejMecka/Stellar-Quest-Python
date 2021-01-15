@@ -68,3 +68,7 @@ In this challenge your task is to create a brand new 0 XLM balance account with 
 * Challenge 7: Revoke account sponsorship for the account you're sponsoring
 
 In this challenge you need to revoke account sponsorship for the account you're currently sponsoring.
+
+* Challenge 8: Create and host a stellar.toml file for your account
+
+In today's challenge your task is to create, host and link to a stellar.toml file with an SQ02_EASTER_EGG field containing the text: <FOUND ON STELLAR QUEST>
