@@ -1,5 +1,5 @@
 """
-Challenge 2: Create a Multi Operation Transaction
+Challenge 3: Fee Bump Transaction
 """
 from stellar_sdk import Server, Keypair, TransactionBuilder, Network, FeeBumpTransaction
 import requests
