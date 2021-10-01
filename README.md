@@ -72,3 +72,15 @@ In this challenge you need to revoke account sponsorship for the account you're 
 * Challenge 8: Create and host a stellar.toml file for your account
 
 In today's challenge your task is to create, host and link to a stellar.toml file with an SQ02_EASTER_EGG field containing the text: <FOUND ON STELLAR QUEST>
+
+-----
+
+# Quest 3
+
+* Challenge 1: Make use of a sequence number bump operation in a transaction
+
+In today's inaugural challenge you must submit a transaction from your account, making use of the sequence number bump operation.
+
+* Challenge 2: Submit a transaction containing 100 operations
+
+Your challenge today is to successfully orchestrate and submit a transaction stuffed full of 100 operations.
