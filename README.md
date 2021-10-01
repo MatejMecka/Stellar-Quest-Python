@@ -84,3 +84,7 @@ In today's inaugural challenge you must submit a transaction from your account, 
 * Challenge 2: Submit a transaction containing 100 operations
 
 Your challenge today is to successfully orchestrate and submit a transaction stuffed full of 100 operations.
+  
+* Challenge 3: Submit a hash signed transaction
+  
+In today's challenge your task is to add a very specific and special sha256 hash signer to your account and then to submit a second transaction using that signer to remove itself as a signer from the account. A sort of one time use key if you will.
