@@ -88,3 +88,7 @@ Your challenge today is to successfully orchestrate and submit a transaction stu
 * Challenge 3: Submit a hash signed transaction
   
 In today's challenge your task is to add a very specific and special sha256 hash signer to your account and then to submit a second transaction using that signer to remove itself as a signer from the account. A sort of one time use key if you will.
+  
+* Challenge 4: Submit a pre-authorized transaction
+  
+Pre-authorized transactions are a fantastic way to get around the somewhat cumbersome issue of multisig coordination. Just add a transaction hash as a signer to your account and then pass along that XDR to any other signers for additional signing or final submission.
