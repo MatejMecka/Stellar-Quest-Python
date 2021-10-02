@@ -92,3 +92,7 @@ In today's challenge your task is to add a very specific and special sha256 hash
 * Challenge 4: Submit a pre-authorized transaction
   
 Pre-authorized transactions are a fantastic way to get around the somewhat cumbersome issue of multisig coordination. Just add a transaction hash as a signer to your account and then pass along that XDR to any other signers for additional signing or final submission.
+
+* Challenge 5: Successfully submit a clawback operation
+  
+It's the Ctrl+Z for blockchain payments. The mechanic for undoing mistaken or fraudulent payments. Once an issuer and trustline have been created under the asset clawback umbrella the issuer has the power to "clawback" any amount of that asset back into the issuing account effectively burning it from existence.
