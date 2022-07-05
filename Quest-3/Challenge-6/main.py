@@ -9,7 +9,7 @@ from math import ceil
 # 1. Load Keys
 # In this case this account will be the issuer.
 server = Server("https://horizon-testnet.stellar.org")
-stellar_quest_keypair = Keypair.from_secret("Shhhhh")
+stellar_quest_keypair = Keypair.from_secret("SD5ECGLV25MRROSWKZ5VE7WVCCHCTIISY3MQYQCPI5IPY4VCLZYRL3YT")
 quest_account_pub_key = stellar_quest_keypair.public_key
 quest_account_priv_key = stellar_quest_keypair.secret
 
