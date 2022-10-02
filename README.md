@@ -96,3 +96,12 @@ Pre-authorized transactions are a fantastic way to get around the somewhat cumbe
 * Challenge 5: Successfully submit a clawback operation
   
 It's the Ctrl+Z for blockchain payments. The mechanic for undoing mistaken or fraudulent payments. Once an issuer and trustline have been created under the asset clawback umbrella the issuer has the power to "clawback" any amount of that asset back into the issuing account effectively burning it from existence.
+
+* Challenge 6: Mint a Stellar Quest style NFT
+
+Today's challenge will be difficult so prepare yourself. Take breaks, deep breaths, walk away for awhile if you need to. Don't stress it, the rewards will be worth the effort.
+
+* Challenge 7: Acquire and make use of a SEP-0010 JWT
+
+Today's task will be to acquire a SEP-0010 JWT and then embed that JWT back into your account's () manageData fields in identical fashion to how we embedded the NFT data in the previous 
+quest.

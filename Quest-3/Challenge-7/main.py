@@ -88,6 +88,3 @@ transaction = transaction.build()
 transaction.sign(stellar_quest_keypair)
 response = server.submit_transaction(transaction)
 print(f"This is the final response: {response}")
-
-
-
