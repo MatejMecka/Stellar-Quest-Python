@@ -105,3 +105,7 @@ Today's challenge will be difficult so prepare yourself. Take breaks, deep breat
 
 Today's task will be to acquire a SEP-0010 JWT and then embed that JWT back into your account's () manageData fields in identical fashion to how we embedded the NFT data in the previous 
 quest.
+
+* Challenge 8: Use SEP-0006 to acquire some MULT from testanchor.stellar.org
+
+Your task today will be to use SEP-0006 to request a deposit of MULT issued by GDLD...FSMM from the testanchor.stellar.org endpoint.
