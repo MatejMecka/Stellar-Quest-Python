@@ -109,3 +109,13 @@ quest.
 * Challenge 8: Use SEP-0006 to acquire some MULT from testanchor.stellar.org
 
 Your task today will be to use SEP-0006 to request a deposit of MULT issued by GDLD...FSMM from the testanchor.stellar.org endpoint.
+
+-----
+
+### Learn Level 1
+
+* Challenge 1: Create an account on the Stellar network
+
+In this quest, your challenge is to create an account by using the createAccount operation with the Quest Keypair located in the box on the right-hand side of this screen. 
+
+
