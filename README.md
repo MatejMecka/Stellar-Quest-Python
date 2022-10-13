@@ -119,3 +119,26 @@ Your task today will be to use SEP-0006 to request a deposit of MULT issued by G
 In this quest, your challenge is to create an account by using the createAccount operation with the Quest Keypair located in the box on the right-hand side of this screen. 
 
 
+* Challenge 2: Payment
+
+Send an amount of a specific asset to a destination account
+
+In this quest, your challenge is to perform a payment operation where you’ll submit a transaction containing that payment operation on the Stellar test network from the Quest Account to another account.
+
+
+* Challenge 3: Change Trust
+
+Create a trustline between two accounts for a designated asset
+
+In this quest, your challenge is to establish a trustline between the Quest Account and another account for a specific asset using the changeTrust operation.
+
+* Challenge 4: Manage Offers
+Create an offer to buy or sell a specific asset for another
+
+In this quest, your challenge is to open a buy or sell offer on the Quest Account using the manageBuyOffer, manageSellOffer or createPassiveSellOffer operation.
+
+* Challenge 5: Path Payments
+
+Send or receive an asset that is different from the received or sent asset
+
+In this quest, your challenge is to successfully send a path payment from the Quest Account to another account on the Stellar test network using the pathPaymentStrictSend or pathPaymentStrictReceive operation. Please note the sent asset must be different than the received asset.
