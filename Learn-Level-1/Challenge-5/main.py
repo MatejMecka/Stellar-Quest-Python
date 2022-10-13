@@ -6,7 +6,7 @@ import requests
 
 # 1. Load Keys
 server = Server("https://horizon-testnet.stellar.org")
-stellar_quest_keypair = Keypair.from_secret("SDGWX6D32AGE6HNSTA5PUCJP2MQCAHTYJOMCTSJETUXGHON2ULUEAWRX")
+stellar_quest_keypair = Keypair.from_secret("SECRET")
 quest_account_pub_key = stellar_quest_keypair.public_key
 quest_account_priv_key = stellar_quest_keypair.secret
 
