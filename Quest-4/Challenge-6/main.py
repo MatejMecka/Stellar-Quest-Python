@@ -924,6 +924,6 @@ transaction = TransactionBuilder(
 
 xdr = transaction.to_xdr()
 
-print(f"Post this XDR @ SQ Xdr Box: {xdr}")
+print(f"Post this XDR @ SQ Xdr Box: {xdr}") #(context) in quest 4 you had to submit every transaction thought the quest box, that would sing with with a hidden key
 print(f"Check stellar.expert/explorer if all balances are gone, if all gone, merge using laboratory.stellar.org")
 
