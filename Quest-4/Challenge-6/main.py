@@ -926,3 +926,4 @@ xdr = transaction.to_xdr()
 
 print(f"Post this XDR @ SQ Xdr Box: {xdr}")
 print(f"Check stellar.expert/explorer if all balances are gone, if all gone, merge using laboratory.stellar.org")
+
